@@ -19,5 +19,3 @@ https://syncandshare.lrz.de/getlink/fiR4s2WSak1v4LEScK7XTn/
 - for the case (k,b)=(10,20) and initial state ($x_1(0)=\pi/2,x_2(0)=0,\dot{x}_1(0)=0,\dot{x}_2(0)=0$)
 - Animation_case6:
 - for the case (k,b)=(10,20) and initial state ($x_1(0)=\pi/2,x_2(0)=0,\dot{x}_1(0)=0,\dot{x}_2(0)=10\pi$)
-
-- 
