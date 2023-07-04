@@ -5,13 +5,6 @@
 ## The animation of the masses' motion:
 https://syncandshare.lrz.de/getlink/fiR4s2WSak1v4LEScK7XTn/
 
-<HTML>
-<HEAD> <TITLE>Activity - Insert animated GIF to HTML</TITLE> </HEAD>
-<BODY>
-  <IMG url="[https://syncandshare.lrz.de/getlink/fiH77cad49uVV6cDjoza4e/animation_case1.gif]
-">
-</BODY>
-</HTML>
 
 Gif file names:
 - Animation_case1:
