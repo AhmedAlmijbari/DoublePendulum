@@ -1,4 +1,5 @@
 # DoublePendulum
 
 
-![gif](https://github.com/AhmedAlmijbari/DoublePendulum/assets/62302631/104fd34b-3ec2-4a72-94b7-e5121d3828ac)
+![Alt Text]([https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif](https://syncandshare.lrz.de/dl/fiH77cad49uVV6cDjoza4e/animation_case1.gif?inlin))
+
